@@ -22,6 +22,9 @@ I came up with the idea to use convolutional networks (I haven't studied DCGAN b
 
 Perhaps when I have the time or need to further explore the GANs, I will try to build a better network. In the meantime, however, I am leaving here what I have managed to do so far.
 
+### GAN architecture
+![tree](img/GAN_architecture.png)
+
 
 ### GAN results
 Below are some examples of galaxy images created by our GAN network:
@@ -29,7 +32,7 @@ Below are some examples of galaxy images created by our GAN network:
 
 
 ### Expectations vs Reality
-For comparison, I present sample photos of training data and the results of my GAN network.
+For comparison, I present photo from training dataset and the results of my GAN network.
 <br>
 <br>
 ![tree](img/img_cmpr.png)
